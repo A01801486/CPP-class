@@ -4,7 +4,7 @@ using std::cout;
 using std::endl;
 using std::cin;
 
-
+// cambio ejemplo
 // int, char(carácter), string, nool, float, double, cast
 
 int main ()
